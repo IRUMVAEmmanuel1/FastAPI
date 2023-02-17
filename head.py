@@ -11,3 +11,10 @@ class animare:
         print("This is another class")
 df=pd.read_csv()
 df.head()
+
+
+
+name=str(input("Enter 2 numbers"))
+name='Emmanuel'
+username="Irumva"
+
