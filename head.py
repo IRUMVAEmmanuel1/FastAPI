@@ -5,3 +5,6 @@ def dog():
     for i  in dog:
         print(i)
         print("Enter animals that you want")
+class animare:
+    def zoom():
+        print("This is another class")
