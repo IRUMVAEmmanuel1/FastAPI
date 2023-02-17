@@ -1,3 +1,4 @@
+import pandas as pd
 def animals():
     print("Hello My name is python")
 def dog():
@@ -8,3 +9,5 @@ def dog():
 class animare:
     def zoom():
         print("This is another class")
+df=pd.read_csv()
+df.head()
